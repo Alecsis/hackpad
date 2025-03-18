@@ -4,7 +4,7 @@ All prices include shipping(to the best of my ability)
 |:---- |:----:|
 | JLCPCB | $34.51 |
 
-## Switches
+## Switchesc
 |Name |Vendor | Price |
 |:--- |:---- |:----:|
 |Gateron G Brown Pro 3.0 Pre-lubed Switches |Amazon |43.18|
